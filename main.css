@@ -23,8 +23,8 @@ h1 {
     
 }
 #logo {
-    width: 70px;
-    height: 70px;
+    width: 10%;
+    height: auto;
     float: right;
 }
 #main{
